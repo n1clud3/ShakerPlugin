@@ -1,0 +1,3 @@
+name: ShakerPlugin
+version: '${version}'
+main: io.github.niclude.shakerplugin.ShakerPlugin
